@@ -1,5 +1,4 @@
-# HadoBoardGame
-# HADO 스마트 보드 프로젝트
+# HadoBoardGame Project
 
 ## 1. 프로젝트 소개
 
